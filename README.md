@@ -12,5 +12,5 @@ In this project we will cover the basics of `Structure Query Language (SQL)`, `R
 - [ ] **CD into the folder** where you cloned **your fork**.
 - [ ] type `npm i` to download dependencies.
 
-Completed 1/28/2020
+Completed 1/28/20
 
